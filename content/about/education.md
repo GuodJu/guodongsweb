@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD in Social Policy
     company: London School of Economics and Political Science
-    company_url: 'https://www.lse.ac.uk/'
+    company_url: ''
     company_logo: org-x
     location: London
     date_start: '2020-09-01'
