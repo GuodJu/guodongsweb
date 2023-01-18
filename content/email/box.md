@@ -23,16 +23,15 @@ content:
     city: London
     country: United Kindom
     postcode: 'WC2A 2AE'
+    
   autolink: true
       # Choose an email form provider (netlify/formspree)
   form:
-  provider: netlify
-  formspree:
+    provider: netlify
           # If using Formspree, enter your Formspree form ID
-  id: ''
-  netlify:
+    netlify:
           # Enable CAPTCHA challenge to reduce spam?
-    captcha: false
+      captcha: false
 design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
