@@ -4,8 +4,14 @@ headless: true
 weight: 5
 author: admin
 widget_id: HPage
+design:
+  background:
+    gradient_start: rgba(121, 202, 186, 0.55)
+    gradient_end: rgba(34, 233, 182, 0.55)
 ---
-Hi, there! I'm Guodong Ju, a Social Science scholar at LSE.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+Welcome! {style="font-size: 1.3rem; background: #225ea8}
 
-Check out my [resumé](/about/) and portfolio below.
+This is Guodong Ju, a Social Science scholar at LSE.
+{style="font-size: 1.3rem; background: #225ea8; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
+Check out my [resumé](/about/) and portfolio below. {style="font-size: 1.3rem}
