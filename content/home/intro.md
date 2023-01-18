@@ -1,7 +1,7 @@
 ---
 widget: about.avatar
 headless: true
-weight: 30
+weight: 5
 author: admin
 widget_id: HPage
 ---
