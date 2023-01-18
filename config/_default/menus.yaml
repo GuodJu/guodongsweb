@@ -10,6 +10,12 @@ main:
   - name: Resumé
     url: about/
     weight: 20
-  - name: Contact
+  - name: Publication & Conference
     url: /
     weight: 30
+  - name: Doctoral Research
+    url: /
+    weight: 40    
+  - name: Contact
+    url: /
+    weight: 50
