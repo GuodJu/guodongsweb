@@ -14,8 +14,7 @@ social:
 organizations:
   - name: London School of Economics and Political Science
     url: https://www.lse.ac.uk/
-education:
-  courses: []
+
 superuser: true
 status: null
 title: Guodong Ju     句国栋
