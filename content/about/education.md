@@ -58,6 +58,17 @@ experience:
         * One Year Course Taught in English
         * American History, International Relation Theory, Economical Environmental Policy
 
+  - title: Bsc in Biology
+    company: Nanjing University
+    company_url: 'https://www.nju.edu.cn/EN/main.html'
+    company_logo: org-x
+    location: Nanjing
+    date_start: '2013-09-01'
+    date_end: '2017-06-30'
+    description: |2-
+        * Everest Program
+        * Calculus, Linear Algebra, C++, Principle of Physics, Chemical Principles, Professional Biological Courses and Experiments
+
 design:
   columns: '1'
 ---
