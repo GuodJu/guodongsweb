@@ -16,5 +16,5 @@ design:
 Here is Guodong Ju, a PhD candidate in Social Science at LSE.
 {style="font-size: 1.3rem; font: Rose; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](/about/) and portfolio below.
+Check out my "[resumé](/about/)" here and portfolio below.
 {style="font-size: 1.3rem; font: Mr Robot; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
