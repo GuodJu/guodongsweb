@@ -1,9 +1,4 @@
 ---
-title: Guodong Ju     句国栋
-role: PhD Candidate
-superuser: true
-status:
-  icon: ☕️
 avatar_filename: photo.jpg
 bio: "A Social Science scholar concerning Social Attitudes, Social Interactions,
   Social Equality with Quantitative Approaches. "
@@ -11,16 +6,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+organizations:
+  - name: LSE
+    url: https://www.lse.ac.uk/
+superuser: true
+status:
+  icon: ☕️
+title: Guodong Ju     句国栋
+role: PhD Candidate
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Guodong Ju is a PhD Candidate in the department of Social Policy, at LSE. 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
