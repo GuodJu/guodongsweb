@@ -13,7 +13,7 @@ education:
   courses: []
 superuser: true
 status:
-  icon: ☕️
+#  icon: ☕️
 title: Guodong Ju     句国栋
 role: PhD Candidate
 ---
