@@ -1,5 +1,5 @@
 ---
-avatar_filename: photo.jpg
+avatar_filename: ""
 bio: "A Social Science scholar concerning Social Attitudes, Social Interactions,
   Social Equality with Quantitative Approaches. "
 social:
