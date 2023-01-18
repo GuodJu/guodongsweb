@@ -7,9 +7,9 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 100
 
-title: Get in touch
+title: Contacting Me
 subtitle:
 
 content:
@@ -26,5 +26,5 @@ content:
       captcha: false
 
 design:
-  columns: '2'
+  columns: '1'
 ---
