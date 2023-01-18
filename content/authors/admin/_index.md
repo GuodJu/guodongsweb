@@ -9,7 +9,7 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/in/guod-ju-b94076204/
-    icon_pack: ai
+    icon_pack: fab
     icon: linkedin
 organizations:
   - name: London School of Economics and Political Science
