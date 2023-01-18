@@ -1,6 +1,6 @@
 ---
 title: Straight Roommates' Attitude
-summary: The impact of having an LGB roommate on straight people's attitudes
+summary: Evaluating the impact of having an LGB roommate on straight people's attitudes based on Zhihu posts
 tags:
   - MM
 date: 2022-01-01
