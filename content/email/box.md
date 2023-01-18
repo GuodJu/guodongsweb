@@ -1,6 +1,10 @@
 ---
+widget: contact
+headless: true
+weight: 20
 title: Contacting Me
-type: landing
+subtitle:
+# type: landing
 
 sections:
   - block: contact
