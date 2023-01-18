@@ -33,20 +33,20 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: false
-    show_language: false
+    show_logo: true
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+#    notice: '© {year} Me. This work is licensed under {license}'
+#    license:
+#      enable: true
+#      allow_derivatives: false
+#      share_alike: true
+#      allow_commercial: false
 
 # Localization
 
@@ -102,4 +102,4 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: false
+    enable: true
