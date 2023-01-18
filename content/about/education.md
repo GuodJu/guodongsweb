@@ -42,9 +42,9 @@ experience:
     date_start: '2017-09-01'
     date_end: '2020-06-31'
     description: |2-
-         * Dissertation on Predicting Missing Sample's Genuine Sexual Orientation by Machine Learning (50,000 words in Chinese)
-         * Student Representative for master students in the department
-         * Quantitative Research focused on Quantitative History, Social Network Analysis, Social Prediction
+        * Dissertation on Predicting Missing Sample's Genuine Sexual Orientation by Machine Learning (50,000 words in Chinese)
+        * Student Representative for master students in the department
+        * Quantitative Research focused on Quantitative History, Social Network Analysis, Social Prediction
 
 design:
   columns: '1'
