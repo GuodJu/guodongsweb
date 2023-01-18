@@ -38,7 +38,7 @@ experience:
   - title: Mphil in Sociology
     company: Nanjing University
     company_url: 'https://www.nju.edu.cn/EN/main.html'
-    company_logo: org-x
+    company_logo: NJU
     location: Nanjing
     date_start: '2017-09-01'
     date_end: '2020-06-30'
@@ -61,7 +61,7 @@ experience:
   - title: Bsc in Biology
     company: Nanjing University
     company_url: 'https://www.nju.edu.cn/EN/main.html'
-    company_logo: org-x
+    company_logo: NJU
     location: Nanjing
     date_start: '2013-09-01'
     date_end: '2017-06-30'
