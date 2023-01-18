@@ -15,7 +15,7 @@ content:
   contact_links:
   - icon: linkedin
     icon_pack: fab
-  # name: Add Me
+    name: Add Me on Linkin
     link: 'https://www.linkedin.com/in/guod-ju-b94076204/'
       # Automatically link email and phone or display them just as text?
 
