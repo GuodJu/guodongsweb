@@ -10,16 +10,16 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Mixing Methods
+    - name: MixingMethods
       tag: MM
-    - name: Social Network Analysis
+    - name: SNA
       tag: SNA
-    - name: Natural Language Process
+    - name: NLP
       tag: NLP
-    - name: Social Experiments
+    - name: SocialExperiments
       tag: SE
-    - name: Quantitative Research
-      tag: QR
+    - name: Others
+      tag: OT
 headless: true
 design:
   columns: "1"
