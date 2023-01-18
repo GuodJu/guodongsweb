@@ -19,7 +19,6 @@ content:
     link: 'https://www.linkedin.com/in/guod-ju-b94076204/'
       # Automatically link email and phone or display them just as text?
 
-content:  
   autolink: true
       # Choose an email form provider (netlify/formspree)
   form:
