@@ -18,7 +18,8 @@ content:
     name: Add Me
     link: 'https://www.linkedin.com/in/guod-ju-b94076204/'
       # Automatically link email and phone or display them just as text?
-  
+
+content:  
   autolink: true
       # Choose an email form provider (netlify/formspree)
   form:
@@ -31,5 +32,5 @@ content:
      captcha: false
 design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 ---
