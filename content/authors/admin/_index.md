@@ -1,9 +1,10 @@
 ---
 title: Guodong Ju     句国栋
-role: ""
+role: PhD Candidate
 superuser: true
 status:
   icon: ☕️
+avatar_filename: photo.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
