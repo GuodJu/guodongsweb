@@ -24,24 +24,27 @@ date_format: Jan 2006
 experience:
   - title: PhD in Social Policy
     company: London School of Economics and Political Science
-    company_url: ''
+    company_url: 'https://www.lse.ac.uk/'
     company_logo: org-x
     location: London
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        * Dissertation on Y
+        * Dissertation on ""
         * Basketball team
         * DJ club
 
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: Mphil in Sociology
+    company: Nanjing University
+    company_url: 'https://www.nju.edu.cn/EN/main.html'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    location: China
+    date_start: '2017-09-01'
+    date_end: '2020-6-31'
+    description: |2-
+         * Dissertation on Predicting Missing Sample's Genuine Sexual Orientation by Machine Learning (50,000 words in Chinese)
+         * Student Representative for master students in the department
+         * Quantitative Research focused on Quantitative History, Social Network Analysis, Social Prediction
 
 design:
   columns: '1'
