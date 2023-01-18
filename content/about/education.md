@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 
+title: Education
 subtitle:
 
 # Date format for experience
