@@ -13,7 +13,7 @@ design:
 **Hi, Welcome!**
 {style="font-size: 1.3rem; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Here is Guodong Ju, a Social Science scholar at LSE.
+Here is Guodong Ju, a PhD candidate in Social Science at LSE.
 {style="font-size: 1.3rem; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below.
