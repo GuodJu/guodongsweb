@@ -46,7 +46,18 @@ experience:
         * Dissertation on Predicting Missing Sample's Genuine Sexual Orientation by Machine Learning (50,000 words in Chinese)
         * Student Representative for department master students
         * Quantitative Research focused on Quantitative History, Social Network Analysis, Social Prediction
-    
+
+  - title: Certificate Program in American Culture & History
+    company: Hopkins Nanjing Center
+    company_url: 'https://sais.jhu.edu/hopkins-nanjing-center'
+    company_logo: org-x
+    location: Nanjing
+    date_start: '2018-09-01'
+    date_end: '2019-06-30'
+    description: |2-
+        * One Year Course Taught in English
+        * American History, International Relation Theory, Economical Environmental Policy
+
 design:
   columns: '1'
 ---
