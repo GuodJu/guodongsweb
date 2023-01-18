@@ -25,7 +25,7 @@ experience:
   - title: PhD in Social Policy
     company: London School of Economics and Political Science
     company_url: 'https://www.lse.ac.uk/'
-    company_logo: org-x
+    company_logo: lse
     location: London
     date_start: '2020-09-01'
     date_end: ''
