@@ -30,8 +30,10 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        * Dissertation on
+        * Dissertation on The Impact of Increased Visibility on LGBTQ+ people's Wellbeing in Contemporary China
         * Funded by LSE PhD Scholarship
+        * Research Fields: Social Attitudes, Social Equality, Minority Rights, Social Organizations
+        * Reserach Methods: Computational Social Science, Social Network Analysis, Causal Inference
  
   - title: Mphil in Sociology
     company: Nanjing University
@@ -40,7 +42,10 @@ experience:
     location: Nanjing
     date_start: '2017-09-01'
     date_end: '2020-06-30'
-    description: Dissertation on 
+    description: |2-
+        * Dissertation on Predicting Missing Sample's Genuine Sexual Orientation by Machine Learning (50,000 words in Chinese)
+        * Student Representative for department master students
+        * Quantitative Research focused on Quantitative History, Social Network Analysis, Social Prediction
     
 design:
   columns: '1'
