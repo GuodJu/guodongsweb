@@ -44,7 +44,7 @@ experience:
     date_end: '2020-06-30'
     description: |2-
         * Dissertation on Predicting Missing Sample's Genuine Sexual Orientation by Machine Learning (50,000 words in Chinese)
-        * Student Representative for department master students
+        * Student Representative for Department Master Students
         * Quantitative Research focused on Quantitative History, Social Network Analysis, Social Prediction
 
   - title: Certificate Program in American Culture & History
