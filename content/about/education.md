@@ -50,7 +50,7 @@ experience:
   - title: Certificate Program in American Culture & History
     company: Hopkins Nanjing Center
     company_url: 'https://sais.jhu.edu/hopkins-nanjing-center'
-    company_logo: org-x
+    company_logo: SAIS
     location: Nanjing
     date_start: '2018-09-01'
     date_end: '2019-06-30'
