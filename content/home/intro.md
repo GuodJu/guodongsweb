@@ -11,10 +11,10 @@ design:
     color: rgba(147, 233, 222, 0.48)
 ---
 **Hi, Welcome!**
-{style="font-size: 1.3rem; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.3rem; font: Classic; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Here is Guodong Ju, a PhD candidate in Social Science at LSE.
-{style="font-size: 1.3rem; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.3rem; font: Rose; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below.
-{style="font-size: 1.3rem; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.3rem; font: Mr Robot; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
