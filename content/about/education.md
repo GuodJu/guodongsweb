@@ -28,7 +28,7 @@ experience:
     company_logo: org-x
     location: London
     date_start: '2020-09-01'
-    date_end: '2024-09-31'
+    date_end: ''
     description: |2-
         * Dissertation on Y
         * Basketball team
