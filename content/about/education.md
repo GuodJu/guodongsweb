@@ -40,7 +40,7 @@ experience:
     company_logo: org-x
     location: China
     date_start: '2017-09-01'
-    date_end: '2020-6-31'
+    date_end: '2020-06-31'
     description: |2-
          * Dissertation on Predicting Missing Sample's Genuine Sexual Orientation by Machine Learning (50,000 words in Chinese)
          * Student Representative for master students in the department
