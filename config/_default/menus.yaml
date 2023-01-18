@@ -11,11 +11,11 @@ main:
     url: about/
     weight: 20
   - name: Publication & Conference
-    url: /
+    url: papers/
     weight: 30
   - name: Doctoral Research
-    url: /
+    url: doctor/
     weight: 40    
   - name: Contact
-    url: /
+    url: email/
     weight: 50
