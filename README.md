@@ -1,5 +1,4 @@
-# [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
-
+# [Hugo Portfolio Theme]
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
 The **Hugo Portfolio Template** empowers you to easily create a portfolio website. Make it your own by choosing a color theme and grid layout!
