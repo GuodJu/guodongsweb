@@ -1,7 +1,7 @@
 ---
 widget: contact
 headless: true
-weight: 20
+weight: 10
 title: Contacting Me
 subtitle:
 # type: landing
@@ -18,7 +18,11 @@ content:
     name: Add Me on Linkin
     link: 'https://www.linkedin.com/in/guod-ju-b94076204/'
       # Automatically link email and phone or display them just as text?
-
+  address:
+    street: Old Building, Houghton Street
+    city: London
+    country: United Kindom
+    postcode: 'WC2A 2AE'
   autolink: true
       # Choose an email form provider (netlify/formspree)
   form:
@@ -28,8 +32,8 @@ content:
   id: ''
   netlify:
           # Enable CAPTCHA challenge to reduce spam?
-     captcha: false
+    captcha: false
 design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 ---
