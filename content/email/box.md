@@ -11,7 +11,7 @@ content:
   subtitle: ''
   text: ''
   # Contact details - edit or remove options as needed
- # email: g.ju@lse.ac.uk
+  email: g.ju@lse.ac.uk
   contact_links:
   - icon: linkedin
     icon_pack: fab
