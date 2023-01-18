@@ -14,8 +14,8 @@ content:
   email: g.ju@lse.ac.uk
   contact_links:
   - icon: linkedin
-    icon_pack: fas
-    name: Add Me
+    icon_pack: fab
+  # name: Add Me
     link: 'https://www.linkedin.com/in/guod-ju-b94076204/'
       # Automatically link email and phone or display them just as text?
 
