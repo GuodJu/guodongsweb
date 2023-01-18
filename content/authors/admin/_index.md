@@ -5,8 +5,8 @@ superuser: true
 status:
   icon: ☕️
 avatar_filename: photo.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "A Social Science scholar concerning Social Attitudes, Social Interactions,
+  Social Equality with Quantitative Approaches. "
 social:
   - icon: envelope
     icon_pack: fas
