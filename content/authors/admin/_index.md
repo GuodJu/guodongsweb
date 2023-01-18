@@ -6,14 +6,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/guod-ju-b94076204/
+    icon_pack: ai
+    icon: linkedin
 organizations:
-  - name: LSE
+  - name: London School of Economics and Political Science
     url: https://www.lse.ac.uk/
 education:
   courses: []
 superuser: true
-status:
-#  icon: ☕️
+status: null
 title: Guodong Ju     句国栋
 role: PhD Candidate
 ---
