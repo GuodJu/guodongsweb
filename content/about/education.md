@@ -30,18 +30,17 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        * Dissertation on The Impact of Increased Visibility on LGBTQ+ people's Wellbeing in Contemporary China
-        * Funded by PhD Scholarship
-        * Computational Social Science, Social Network Analysis, Causal Inference
-
+        * Dissertation on
+        * Funded by LSE PhD Scholarship
+ 
   - title: Mphil in Sociology
     company: Nanjing University
     company_url: 'https://www.nju.edu.cn/EN/main.html'
     company_logo: org-x
-    location: China
+    location: Nanjing
     date_start: '2017-09-01'
     date_end: '2020-06-31'
-    description: Dissertation on Predicting Missing Sample's Genuine Sexual Orientation by Machine Learning (50,000 words in Chinese)
+    description: Dissertation on 
 
 design:
   columns: '1'
