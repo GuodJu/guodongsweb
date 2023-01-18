@@ -18,7 +18,7 @@ content:
       tag: NLP
     - name: Social Experiments
       tag: SE
-    - Quantitative Research
+    - name: Quantitative Research
       tag: QR
 headless: true
 design:
