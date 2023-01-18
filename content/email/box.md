@@ -11,9 +11,9 @@ weight: 10
 
 title: Contacting Me
 subtitle:
+email:g.ju@lse.ac.uk
 
 content:
-  email:g.ju@lse.ac.uk
   
   # Automatically link email and phone or display as text?
   autolink: true
