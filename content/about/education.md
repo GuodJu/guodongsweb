@@ -33,15 +33,15 @@ experience:
         * Dissertation on
         * Funded by LSE PhD Scholarship
  
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: Mphil in Sociology
+    company: Nanjing University
+    company_url: 'https://www.nju.edu.cn/EN/main.html'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
-
+    location: Nanjing
+    date_start: '2017-09-01'
+    date_end: '2020-06-30'
+    description: Dissertation on 
+    
 design:
   columns: '1'
 ---
