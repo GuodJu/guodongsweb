@@ -9,6 +9,8 @@ social:
 organizations:
   - name: LSE
     url: https://www.lse.ac.uk/
+education:
+  courses: []
 superuser: true
 status:
   icon: ☕️
