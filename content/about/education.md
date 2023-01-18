@@ -30,9 +30,9 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        * Dissertation on ""
-        * Basketball team
-        * DJ club
+        * Dissertation on The Impact of Increased Visibility on LGBTQ+ people's Wellbeing in Contemporary China
+        * Funded by PhD Scholarship
+        * Computational Social Science, Social Network Analysis, Causal Inference
 
   - title: Mphil in Sociology
     company: Nanjing University
