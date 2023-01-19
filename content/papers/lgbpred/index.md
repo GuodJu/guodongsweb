@@ -10,7 +10,10 @@ authors:
   - Guodong Ju (corresponding)
 doi: 10.23919/JSC.2021.0021
 publishDate: '2022-06-01T00:00:00Z'
-publication: Journal of Social Computing
+publication: "*Journal of Social Computing 3*(2)"
+links:
+  - name: "link"
+    url: "https://ieeexplore.ieee.org/document/9832832"
 draft: false
 featured: false
 image:
