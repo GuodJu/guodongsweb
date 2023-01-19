@@ -13,8 +13,8 @@ main:
   - name: Publication & Conference
     url: papers/
     weight: 30
-  - name: Doctoral Research
-    url: doctor/
+  - name: Posts
+    url: post/
     weight: 40    
   - name: Contact
     url: email/
