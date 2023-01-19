@@ -1,6 +1,5 @@
-title: My Publication (in English)
-
 ---
+weight: 20
 title: "An example journal article"
 authors:
 - admin
