@@ -21,5 +21,5 @@ image:
   preview_only: false
 # date: 2023-01-19T17:41:28.384Z
 design:
-  colomns: "2"
+  colomns: "1"
 ---
