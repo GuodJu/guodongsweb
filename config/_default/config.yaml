@@ -17,8 +17,8 @@ cascade:
     editable: true
     reading_time: true
     commentable: true
-    show_related: true
-    show_breadcrumb: true
+    show_related: false
+    show_breadcrumb: false
 
 ############################
 ## LANGUAGE
@@ -72,10 +72,10 @@ markup:
 related:
   threshold: 80
   includeNewer: true
-  toLower: false
+  toLower: true
   indices:
-    - name: tags
-      weight: 100
+#    - name: tags
+#      weight: 100
     - name: categories
       weight: 70
 security:
