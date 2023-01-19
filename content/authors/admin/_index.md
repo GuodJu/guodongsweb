@@ -1,5 +1,7 @@
 ---
 avatar_filename: ""
+title: Guodong Ju     句国栋
+role: PhD Candidate
 bio: "A Social Science scholar concerning Social Attitudes, Social Interactions,
   Social Equality with Quantitative Approaches. "
 social:
@@ -17,8 +19,6 @@ organizations:
 
 superuser: true
 status: null
-title: Guodong Ju     句国栋
-role: PhD Candidate
 ---
 Guodong Ju is a PhD Candidate in the department of Social Policy, at LSE. 
 
