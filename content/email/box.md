@@ -3,17 +3,9 @@ widget: contact
 headless: true
 weight: 10
 title: Contacting Me
-subtitle:
+# subtitle:
 # type: landing
-# design:
-#  background:
-#    gradient_start: rgba(255,247,188, 0.30)
-#    gradient_end: rgba(255,247,188, 0.90)
-design:
-  background:
-#    gradient_start: rgba(0, 0, 0, 0)
-#    gradient_end: rgba(0, 0, 0, 0)
-    color: rgba(229,245,249,0.90)
+
 content:
   title: Contact
   subtitle: ''
@@ -43,4 +35,7 @@ content:
 design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
+  background:
+    gradient_start: rgba(255,247,188, 0.30)
+    gradient_end: rgba(255,247,188, 0.90)
 ---
