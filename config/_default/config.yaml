@@ -72,7 +72,7 @@ markup:
 related:
   threshold: 80
   includeNewer: true
-  toLower: true
+  toLower: false
   indices:
     - name: tags
       weight: 100
