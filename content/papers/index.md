@@ -1,5 +1,5 @@
 ---
-title: Publications in English
+title: Publications
 cms_exclude: true
 weight: 10
 
