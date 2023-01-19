@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: programs
 weight: 20
 title: "Doctoral Research"
-subtitle: ""
+subtitle: "Projects/Papers I am working on"
 content:
   page_type: project
   filter_default: 0
