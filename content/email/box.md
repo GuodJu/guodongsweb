@@ -37,5 +37,5 @@ design:
   columns: '1'
   background:
     gradient_start: rgba(255,247,188, 0.30)
-    gradient_end: rgba(255,247,188, 0.90)
+    gradient_end: rgba(255,247,188, 0.60)
 ---
