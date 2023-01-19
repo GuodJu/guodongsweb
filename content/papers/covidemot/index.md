@@ -15,6 +15,7 @@ doi: 10.3389/fpsyt.2022.753703
 publishDate: '2022-03-01T00:00:00Z'
 publication: "*Frontiers in Psychiatry*"
 links:
+  - name: "link"
   - url: 'https://www.frontiersin.org/articles/10.3389/fpsyt.2022.753703/full'
 draft: false
 featured: false
@@ -23,5 +24,5 @@ image:
   focal_point: Smart
   preview_only: false
 design:
-  colomns: "1"
+  colomns: "2"
 ---
