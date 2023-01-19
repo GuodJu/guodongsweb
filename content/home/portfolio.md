@@ -26,7 +26,7 @@ design:
   view: masonry
   flip_alt_rows: true
   background:
-    color: "#c3e9a0"
+    color: "#e5f5e0"
   spacing:
     padding:
       - 0
