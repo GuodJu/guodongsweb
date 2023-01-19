@@ -1,4 +1,7 @@
 ---
+My Publication (in English)
+
+---
 title: "An example journal article"
 authors:
 - admin
