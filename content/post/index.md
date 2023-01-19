@@ -7,6 +7,6 @@ featured: false
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 This is my first post, see how it looks like
