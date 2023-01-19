@@ -1,7 +1,7 @@
 ---
 title: Publications in English
 cms_exclude: true
-weight:10
+weight: 10
 
 # View.
 #   1 = List
