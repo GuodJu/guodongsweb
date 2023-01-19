@@ -1,8 +1,4 @@
 ---
-type: widget_page
----
-
----
 title: "An example journal article"
 authors:
 - admin
