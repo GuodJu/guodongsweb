@@ -15,7 +15,6 @@ links:
   - name: "link"
     url: "https://ieeexplore.ieee.org/document/9832832"
 draft: false
-featured: false
 image:
   filename: featured
   focal_point: Smart
