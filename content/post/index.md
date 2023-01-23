@@ -1,4 +1,5 @@
 ---
+type: widget_page
 title: Posts in Bilanguage
 cms_exclude: true
 
