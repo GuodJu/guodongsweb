@@ -12,7 +12,7 @@ banner:
   image: ''
 ---
 
-*旧体诗*
+<center> *旧体诗* </center>
 
 **元日** 
 
