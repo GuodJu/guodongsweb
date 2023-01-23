@@ -11,10 +11,12 @@ flip_alt_rows: true
 header:
   caption: '思绪漫抄'
   image: 'assets/media/swans.jpg'
+
+design:
+  columns: "1"
 ---
 
 ---
-weight:20
 **<center> _旧体诗_ </center>**
 
 
@@ -25,5 +27,4 @@ weight:20
 <center> 偶过颓园深驻足，有梅花处即中华。 </center>
 
 ---
-weight:30
 ***<center> 文史论 </center>***
