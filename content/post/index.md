@@ -4,7 +4,7 @@ cms_exclude: true
 
 # View.
 view: list
-flip_alt_rows: false
+flip_alt_rows: true
 
 # Optional header image (relative to `assets/media/` folder).
 header:
@@ -13,7 +13,6 @@ header:
 ---
 
 **<center> _旧体诗_ </center>**
-
 
 
 **<center> 元日 </center>**
