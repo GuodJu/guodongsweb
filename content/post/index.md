@@ -1,5 +1,5 @@
 ---
-title: My Posts in Bilanguage
+title: Posts in Bilanguage
 cms_exclude: true
 
 # View.
@@ -11,6 +11,8 @@ banner:
   caption: ''
   image: ''
 ---
+
+*旧体诗*
 
 **元日** 
 
