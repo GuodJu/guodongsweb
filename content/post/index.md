@@ -9,7 +9,7 @@ flip_alt_rows: true
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: '思绪漫抄'
-  image: ''
+  image: 'swans.png'
 ---
 
 ---
