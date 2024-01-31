@@ -13,7 +13,7 @@ design:
 **Hi, Welcome!**
 {style="font-size: 1.3rem; font: Classic; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Here is Guodong Ju, a PhD candidate in Social Science at LSE.
+Here is Guodong Ju, a PhD candidate in Social Science at LSE and an enrichment scheme student in the Alan Turing Institute.
 {style="font-size: 1.3rem; font: Rose; background: #0c2c84; -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my "[resumé](/about/)" here and portfolio below.
