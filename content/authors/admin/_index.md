@@ -20,7 +20,8 @@ organizations:
 superuser: true
 status: null
 ---
-Guodong Ju is a PhD Candidate in the department of Social Policy at LSE.
+Guodong Ju is a PhD Candidate in the department of Social Policy at LSE.  
+
 An Enrichment Schement Student in the Alan Turing Institute.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/Personal_CV_From_Guodong_Ju.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
