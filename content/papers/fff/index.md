@@ -8,7 +8,7 @@ authors:
   - Guodong Ju (corresponding)
 doi: 10.1080/21620555.2023.2213431
 publishDate: '2023-06-01T00:00:00Z'
-publication: "*Chinese Sociological Review"
+publication: "*Chinese Sociological Review 55(5)"
 links:
   - name: "link"
     url: "http://dx.doi.org/10.1080/21620555.2023.2213431"
