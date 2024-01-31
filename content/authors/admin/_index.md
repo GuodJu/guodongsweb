@@ -2,8 +2,8 @@
 avatar_filename: ""
 title: Guodong Ju     句国栋
 role: PhD Candidate
-bio: "A Social Science scholar concerning Social Attitudes, Social Interactions,
-  Social Equality with Quantitative Approaches. "
+bio: "A Social Data Scientist/Quantitative Scholar concerning Social Attitudes, Social Interactions,
+  Social Equality with Causal Inference, Social Network Analysis, Computational Social Science, Bayesian Inference, etc. "
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,6 +20,6 @@ organizations:
 superuser: true
 status: null
 ---
-Guodong Ju is a PhD Candidate in the department of Social Policy, at LSE. 
+Guodong Ju is a PhD Candidate in the department of Social Policy at LSE. \n An Enrichment Schement Student in the Alan Turing Institute.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Ju_CV.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Personal_CV_From_Guodong_Ju.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
