@@ -15,7 +15,7 @@ content:
     - name: SNA
       tag: SNA
     - name: ML
-      tag: NLP
+      tag: ML
     - name: Causal
       tag: CI
     - name: Others
