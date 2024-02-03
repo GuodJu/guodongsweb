@@ -14,10 +14,10 @@ content:
       tag: MM
     - name: SNA
       tag: SNA
-    - name: NLP
+    - name: ML
       tag: NLP
-    - name: SocialExperiments
-      tag: SE
+    - name: Causal
+      tag: CI
     - name: Others
       tag: OT
 headless: true
